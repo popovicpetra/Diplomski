@@ -13,7 +13,7 @@ namespace DiplomskiBackend.Database
 
         public DbSet<TehnickiSekretar> TehnickiSekretar { get; set; }
 
-        public DbSet<TehnickiUrednik> TehnickiUredniks { get; set; }
+        public DbSet<TehnickiUrednik> TehnickiUrednik { get; set; }
 
         public DbSet<TehnickiSaradnik> TehnickiSaradnik {  get; set; }
         public DbSet<Lektor> Lektor { get; set; }
