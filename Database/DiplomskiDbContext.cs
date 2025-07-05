@@ -1,4 +1,7 @@
 ﻿using DiplomskiBackend.Model;
+using DiplomskiBackend.Model.EditorEntitet;
+using DiplomskiBackend.Model.IzdanjeEntitet;
+using DiplomskiBackend.Model.SekretarEntitet;
 using Microsoft.EntityFrameworkCore;
 
 namespace DiplomskiBackend.Database

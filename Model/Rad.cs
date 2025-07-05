@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore.Components.Forms;
+﻿using DiplomskiBackend.Model.EditorEntitet;
+using DiplomskiBackend.Model.IzdanjeEntitet;
+using DiplomskiBackend.Model.SekretarEntitet;
+using Microsoft.AspNetCore.Components.Forms;
 
 namespace DiplomskiBackend.Model
 {

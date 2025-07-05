@@ -1,6 +1,6 @@
-﻿namespace DiplomskiBackend.Model
+﻿namespace DiplomskiBackend.Model.SekretarEntitet
 {
-    public class TehnickiSekretar
+    public class TehnickiSekretarDto
     {
         public Guid Id { get; set; }
         public string Ime { get; set; }
